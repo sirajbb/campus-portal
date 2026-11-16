@@ -3,3 +3,4 @@ Student portal for courses, results and notices.
 
 ## Team
 - Lab Student (Maintainer)
+Work in progress: events page
