@@ -1,4 +1,5 @@
 {
-  "theme": "solarized",
+  "theme": "dark",
+  "alternateTheme": "solarized",
   "version": "1.0.0"
 }
